@@ -1,4 +1,4 @@
-# PHP EXERCÍCIOS - CICLOS
+# PHP EXERCÍCIOS - MATRIZES
 Exercícios básicos de ciclos em php. Retirei no total de 23 exercícios da internet sobre matrizes e resolvi todos eles da melhor maneira que encontrei. Sendo assim poderá ser que a resolução não seja a melhor, deixando você encarregado da missão de contribuir com uma melhor resolução do problema. #osdevsagradecem
 
 ![picture](https://fernandoportugal.com/img/php.png)
